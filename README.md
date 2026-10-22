@@ -4,7 +4,7 @@ This repository contains implementations of all 10 laboratory practical experime
 
 ---
 
-## 📋 List of Practical Experiments
+## List of Practical Experiments
 
 | S. No | CO Mapped | Name of the Experiment | Directory | Tools Used |
 | :---: | :---: | :--- | :---: | :---: |
@@ -21,7 +21,7 @@ This repository contains implementations of all 10 laboratory practical experime
 
 ---
 
-## 🛠️ Prerequisites & Installation
+## Prerequisites & Installation
 
 To run these programs on Ubuntu / Debian / WSL:
 
@@ -32,7 +32,7 @@ sudo apt install -y flex bison gcc build-essential
 
 ---
 
-## 🚀 How to Run Each Experiment
+## How to Run Each Experiment
 
 ### Experiment 1: Introduction to LEX tool, metadata and patterns
 ```bash
@@ -120,5 +120,5 @@ gcc y.tab.c lex.yy.c -o exp10
 
 ---
 
-## 👤 Author
+## Author
 - **Sohana Das** ([@SohanaDas1408](https://github.com/SohanaDas1408))
