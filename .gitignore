@@ -1,0 +1,33 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables and libraries
+*.exe
+*.out
+/exp1/exp1
+/exp2/exp2
+/exp3/exp3
+/exp4/exp4
+/exp5/case
+/exp6/decimal
+/exp7/com
+/exp8/postfix
+/exp9/calc
+/exp10/exp10
+
+# Lex / Flex generated files
+lex.yy.c
+lex.yy.h
+
+# Yacc / Bison generated files
+y.tab.c
+y.tab.h
+*.tab.c
+*.tab.h
+y.output
+*.output
+
+# OS specific files
+.DS_Store
+Thumbs.db
